@@ -1,1 +1,0 @@
-const mongoose = required('mongoose')
